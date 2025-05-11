@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(128deg, rgba(1, 157, 168, 0.767), rgba(119, 250, 130, 0.87));
+    line-height: 1.6;
+}
+main{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    color: black;
+}
